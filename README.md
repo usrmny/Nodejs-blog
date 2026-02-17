@@ -27,4 +27,4 @@ npm run dev</bash></pre>
 Finally, open `localhost:5000` in a brower to try it out.
 
 ## Credits
-This project was made by following the tutorial series [How to Build a Blog with Node.js, Express & MongoDB] (https://www.youtube.com/watch?v=-foo92lFIto&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD), published by Net Ninja and taught by @RaddyDev.
+This project was made by following the tutorial series [How to Build a Blog with Node.js, Express & MongoDB](https://www.youtube.com/watch?v=-foo92lFIto&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD), published by Net Ninja and taught by @RaddyDev.
